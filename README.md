@@ -1,4 +1,12 @@
-# Pandora
+# 这是一个克隆版本的 Pandora，它不是 PandoraNext。
+Pnadora 和 PandoraNext 的作者 Neo 已经停止了这两个项目的维护更新，PandoraNext 更是已经于2024年1月30日停止服务。
+
+##### Pandora 和 PandoraNext 主要特色功能：
+1、提供代理访问 ChatGPT 服务。
+2、提供共享访问 ChatGPT 服务，并且具备不同用户之间对话隔离功能，哪怕是不同用户同时使用相同的 ChatGPT 账户。
+3、提供 Chat to API 服务，也就是说，你只需要拥有 ChatGPT 账户（含gpt-3.5和gpt-4）就可以模拟出API 功能，如 API 一样使用，但不会扣你的 API 费用。
+
+## Pandora
 
 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。
 
